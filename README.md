@@ -19,14 +19,14 @@ You can upload an image from your local device or provide an image URL, and the 
 
 # How It Works
 
-# Model Loading
+### Model Loading
 Loads a ResNet50-based Keras model trained to classify dog breeds.
 
-# Image Input
+### Image Input
 Accepts an image input (upload or URL), preprocesses it to 224×224 pixels.
 
-# Prediction
+### Prediction
 Predicts the breed class with confidence.
 
-# Output
+### Output
 Displays results and allows downloading annotated image.
