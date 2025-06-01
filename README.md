@@ -1,4 +1,4 @@
-# Dog Breed Identification App 🐾
+# Dog Breed Identification App 
 
 This is a Streamlit web app that identifies dog breeds from images using a pre-trained TensorFlow model based on ResNet50.  
 You can upload an image from your local device or provide an image URL, and the app predicts the dog's breed with confidence scores and shows you the result along with a link to learn more.
